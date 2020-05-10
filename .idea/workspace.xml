@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7d0353-a93b-4a64-9880-4b4415e925f8" name="Default Changelist" comment="split red/white/blue into seperate functions, fix fill" />
+    <list default="true" id="4b7d0353-a93b-4a64-9880-4b4415e925f8" name="Default Changelist" comment="new file for new project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +51,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/turtle_game.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.run turtle_game">
+    <configuration name="run beaded_bracelet.py" type="PythonConfigurationType" factoryName="Python">
       <module name="codehsprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +76,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python." />
-      </list>
-    </recent_temporary>
+    <configuration name="run turtle_game" type="PythonConfigurationType" factoryName="Python">
+      <module name="codehsprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\marwa\PycharmProjects\codehsprojects\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtle_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run beaded_bracelet.py" />
+      <item itemvalue="Python.run turtle_game" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,7 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1589141899900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="split red/white/blue into seperate functions, fix fill">
+      <created>1589142064112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589142064112</updated>
+    </task>
+    <task id="LOCAL-00007" summary="split red/white/blue into seperate functions, fix fill">
+      <created>1589142127201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589142127201</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new file for new project">
+      <created>1589142238177</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589142238177</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,41 +190,50 @@
     <MESSAGE value="Created Beaded Bracelet" />
     <MESSAGE value="rename files" />
     <MESSAGE value="split red/white/blue into seperate functions, fix fill" />
-    <option name="LAST_COMMIT_MESSAGE" value="split red/white/blue into seperate functions, fix fill" />
+    <MESSAGE value="new file for new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file for new project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589141611101">
+    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589142313764">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589141611101" />
-    <state width="1443" height="278" key="GridCell.Tab.0.bottom" timestamp="1589141866276">
+    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589142313764" />
+    <state x="93" y="100" width="1318" height="847" key="DiffContextDialog" timestamp="1589142289021">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1443" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589141866276" />
-    <state width="1443" height="278" key="GridCell.Tab.0.center" timestamp="1589141866275">
+    <state x="93" y="100" width="1318" height="847" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589142289021" />
+    <state x="525" y="278" key="FileChooserDialogImpl" timestamp="1589142310432">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1443" height="278" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589141866275" />
-    <state width="1443" height="278" key="GridCell.Tab.0.left" timestamp="1589141866275">
+    <state x="525" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1589142310432" />
+    <state width="1457" height="14" key="GridCell.Tab.0.bottom" timestamp="1589142269452">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1443" height="278" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589141866275" />
-    <state width="1443" height="278" key="GridCell.Tab.0.right" timestamp="1589141866275">
+    <state width="1457" height="14" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
+    <state width="1457" height="14" key="GridCell.Tab.0.center" timestamp="1589142269452">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1443" height="278" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589141866275" />
+    <state width="1457" height="14" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
+    <state width="1457" height="14" key="GridCell.Tab.0.left" timestamp="1589142269452">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1457" height="14" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
+    <state width="1457" height="14" key="GridCell.Tab.0.right" timestamp="1589142269452">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1457" height="14" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
     <state x="246" y="168" key="SettingsEditor" timestamp="1589140798638">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="246" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589140798638" />
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589141539985">
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589142240211">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589141539985" />
-    <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589141009694">
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589142240211" />
+    <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589142078970">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589141009694" />
+    <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589142078970" />
     <state x="408" y="230" key="search.everywhere.popup" timestamp="1589140967815">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
