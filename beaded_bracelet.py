@@ -11,7 +11,6 @@ def red_set():
     turtle.penup()
     turtle.backward(110)
     turtle.left(10)
-
 def white_set():
     turtle.penup()
     turtle.forward(110)
