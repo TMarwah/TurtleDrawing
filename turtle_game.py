@@ -1,7 +1,8 @@
 import turtle
-import random
-from turtle import *
 
+from turtle import Turtle, Screen
+screen = Screen()
+screen.setup(1200,500)
 def up():
     turtle.setheading(90)
     turtle.forward(100)
@@ -18,12 +19,14 @@ def right():
     turtle.setheading(0)
     turtle.forward(100)
 
+
+
+turtle.Screen().onkeypress(up,'Up')
+turtle.Screen().onkeypress(down,'Down')
+turtle.Screen().onkeypress(right,'Right')
+turtle.Screen().onkeypress(left,'Left')
+
+screen.listen()
 turtle.listen()
-
-turtle.onkey(up(),'Up')
-turtle.onkey(down(),'Down')
-turtle.onkey(right(),'Right')
-turtle.onkey(left(),'Left')
-
 turtle.mainloop()
 

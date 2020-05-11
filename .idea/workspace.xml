@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7d0353-a93b-4a64-9880-4b4415e925f8" name="Default Changelist" comment="new file for new project">
+    <list default="true" id="4b7d0353-a93b-4a64-9880-4b4415e925f8" name="Default Changelist" comment="started work on turtle game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589142238177</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new file for new project">
+      <created>1589142324737</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589142324737</updated>
+    </task>
+    <task id="LOCAL-00010" summary="started work on turtle game">
+      <created>1589143505398</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589143505398</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +197,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -191,13 +207,18 @@
     <MESSAGE value="rename files" />
     <MESSAGE value="split red/white/blue into seperate functions, fix fill" />
     <MESSAGE value="new file for new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file for new project" />
+    <MESSAGE value="started work on turtle game" />
+    <option name="LAST_COMMIT_MESSAGE" value="started work on turtle game" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589142313764">
+    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589143430760">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589142313764" />
+    <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589143430760" />
+    <state x="461" y="118" key="#run_turtle_game" timestamp="1589142368880">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="461" y="118" key="#run_turtle_game/0.0.2560.1040@0.0.2560.1040" timestamp="1589142368880" />
     <state x="93" y="100" width="1318" height="847" key="DiffContextDialog" timestamp="1589142289021">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -206,30 +227,30 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="525" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1589142310432" />
-    <state width="1457" height="14" key="GridCell.Tab.0.bottom" timestamp="1589142269452">
+    <state width="1457" height="247" key="GridCell.Tab.0.bottom" timestamp="1589159126170">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="14" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
-    <state width="1457" height="14" key="GridCell.Tab.0.center" timestamp="1589142269452">
+    <state width="1457" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589159126170" />
+    <state width="1457" height="247" key="GridCell.Tab.0.center" timestamp="1589159126170">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="14" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
-    <state width="1457" height="14" key="GridCell.Tab.0.left" timestamp="1589142269452">
+    <state width="1457" height="247" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589159126170" />
+    <state width="1457" height="247" key="GridCell.Tab.0.left" timestamp="1589159126170">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="14" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
-    <state width="1457" height="14" key="GridCell.Tab.0.right" timestamp="1589142269452">
+    <state width="1457" height="247" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589159126170" />
+    <state width="1457" height="247" key="GridCell.Tab.0.right" timestamp="1589159126170">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="14" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589142269452" />
+    <state width="1457" height="247" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589159126170" />
     <state x="246" y="168" key="SettingsEditor" timestamp="1589140798638">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="246" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589140798638" />
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589142240211">
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589143507169">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589142240211" />
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589143507169" />
     <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589142078970">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
