@@ -1,5 +1,6 @@
 import turtle
 turtle.speed(100)
+#function for red beads
 def red_set():
     turtle.penup()
     turtle.forward(110)
@@ -11,6 +12,7 @@ def red_set():
     turtle.penup()
     turtle.backward(110)
     turtle.left(10)
+#function for white beads
 def white_set():
     turtle.penup()
     turtle.forward(110)
@@ -22,7 +24,7 @@ def white_set():
     turtle.penup()
     turtle.backward(110)
     turtle.left(10)
-
+#function for blue beads
 def blue_set():
     turtle.penup()
     turtle.forward(110)
@@ -34,10 +36,10 @@ def blue_set():
     turtle.penup()
     turtle.backward(110)
     turtle.left(10)
-
+#loop to make bracelet
 for i in range(12):
     red_set()
     white_set()
     blue_set()
-
+#click to exit
 turtle.Screen().exitonclick()
