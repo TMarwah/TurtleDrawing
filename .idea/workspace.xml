@@ -54,7 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/turtle_game.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.run turtle_game">
+  <component name="RunManager" selected="Python.run beaded_bracelet.py">
     <configuration name="run beaded_bracelet.py" type="PythonConfigurationType" factoryName="Python">
       <module name="codehsprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
