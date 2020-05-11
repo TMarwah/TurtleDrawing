@@ -52,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/turtle_game.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Python.run turtle_game">
     <configuration name="run beaded_bracelet.py" type="PythonConfigurationType" factoryName="Python">
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589159464272</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modified angles">
+      <created>1589159585108</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589159585108</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +222,8 @@
     <MESSAGE value="new file for new project" />
     <MESSAGE value="started work on turtle game" />
     <MESSAGE value="fixed turtle_game.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed turtle_game.py" />
+    <MESSAGE value="modified angles" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified angles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589143430760">
@@ -234,26 +242,26 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="525" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1589142310432" />
-    <state width="1457" height="247" key="GridCell.Tab.0.bottom" timestamp="1589159522392">
+    <state width="1457" height="247" key="GridCell.Tab.0.bottom" timestamp="1589159899248">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589159522392" />
-    <state width="1457" height="247" key="GridCell.Tab.0.center" timestamp="1589159522392">
+    <state width="1457" height="247" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589159899248" />
+    <state width="1457" height="247" key="GridCell.Tab.0.center" timestamp="1589159899248">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="247" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589159522392" />
-    <state width="1457" height="247" key="GridCell.Tab.0.left" timestamp="1589159522392">
+    <state width="1457" height="247" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589159899248" />
+    <state width="1457" height="247" key="GridCell.Tab.0.left" timestamp="1589159899247">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="247" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589159522392" />
-    <state width="1457" height="247" key="GridCell.Tab.0.right" timestamp="1589159522392">
+    <state width="1457" height="247" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589159899247" />
+    <state width="1457" height="247" key="GridCell.Tab.0.right" timestamp="1589159899248">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1457" height="247" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589159522392" />
-    <state x="246" y="168" key="SettingsEditor" timestamp="1589140798638">
+    <state width="1457" height="247" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589159899248" />
+    <state x="246" y="168" key="SettingsEditor" timestamp="1589159896302">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="246" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589140798638" />
+    <state x="246" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589159896302" />
     <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589159468870">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
