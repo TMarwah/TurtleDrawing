@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/turtle_game.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Python.run beaded_bracelet.py">
@@ -103,7 +103,7 @@
     </list>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\marwa\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -211,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589160019527</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="formatting">
+      <created>1589213234835</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589213234835</updated>
+    </task>
+    <task id="LOCAL-00016" summary="formatting">
+      <created>1589213461175</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589213461175</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,7 +242,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="test" />
     <MESSAGE value="Created Beaded Bracelet" />
     <MESSAGE value="rename files" />
@@ -239,7 +252,9 @@
     <MESSAGE value="modified angles" />
     <MESSAGE value="modified angles, screen size, comments" />
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="formatting" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="199" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589143430760">
@@ -278,10 +293,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="246" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589159896302" />
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589160021249">
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589213462977">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589160021249" />
+    <state x="337" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1589213462977" />
     <state x="554" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589142078970">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -290,5 +305,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="408" y="230" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1589140967815" />
+    <state x="1750" y="314" key="svn.repositoryBrowser" timestamp="1589213414331">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1750" y="314" key="svn.repositoryBrowser/0.0.2560.1040@0.0.2560.1040" timestamp="1589213414331" />
   </component>
 </project>
