@@ -1,6 +1,7 @@
 #import turtle package
 import turtle
 from turtle import Turtle, Screen
+
 #screen setup
 screen = Screen()
 screen.setup(500,500)
