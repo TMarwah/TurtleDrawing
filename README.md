@@ -13,6 +13,6 @@ https://www.python.org/downloads/
 Download the repo as a .zip and extract to your downloads folder.
 Then naviagate to the directory and run.
 ```python
-cd /Downloads/TurtleDrawing
+cd /Downloads/TurtleDrawing-Master
 python3 main.py
 ```
